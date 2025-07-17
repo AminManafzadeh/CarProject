@@ -12,7 +12,7 @@ function Layout({ children }) {
       </Link>
       <div className={styles.container}>{children}</div>
       <footer className={styles.footer}>
-        <a href="#" target="_blank">
+        <a href="#" target="_blank" rel="noreferrer">
           Next.js Courses | Car Project &copy;
         </a>
       </footer>
